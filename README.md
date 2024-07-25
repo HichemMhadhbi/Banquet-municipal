@@ -44,7 +44,7 @@ Après le changement (1, 2) : 1,3,2,4,5
 Après le changement (1, 3) : 1,4,2,3,5
 Après le changement (4, 0) : 5,4,2,3,1
 
-## Exprilication de code : 
+## Explication de code : 
 
 #### Lecture du Nombre Total de Positions :
 do {
